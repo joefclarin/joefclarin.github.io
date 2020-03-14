@@ -178,3 +178,7 @@ a:hover, a:focus, a:active {
 #projects img {
   max-width: 340px !important;
 }
+
+#sideNav .navbar-brand .img-profile {
+  filter: grayscale(1);
+}
